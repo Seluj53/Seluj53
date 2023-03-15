@@ -1,4 +1,17 @@
-### Hi there 👋
+# I'm Jules, welcome to my Github !
+
+
+## About me
+
+- 🇫🇷 French since 1998 🥖
+- 🎓 IMT Atlantique alumni
+- 👔 Work at Devoteam
+
+🌱 I'm passionnate about green IT & IT for green
+
+🔭 I’m currently working on a manga scan web scraper
+
+🧠 I’m currently learning Golang
 
 <!--
 **Seluj53/Seluj53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
