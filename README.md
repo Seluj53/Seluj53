@@ -2,12 +2,13 @@
 
 
 ## About me
-
 - 🇫🇷 French since 1998 🥖
 - 🎓 IMT Atlantique alumni
-- 👔 Work at Devoteam
+- 👔 Work at Devoteam as DevOps Engineer
 
-🌱 I'm passionnate about green IT & IT for green
+I'm passionnate about:
+- 🌱 Green IT & IT for green
+- 🛰 Sciences & New technologies
 
 🔭 I’m currently working on a manga scan web scraper
 
