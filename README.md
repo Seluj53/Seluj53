@@ -1,12 +1,11 @@
 # I'm Jules, welcome to my Github !
 
-
 ## About me
 - 🇫🇷 French since 1998 🥖
 - 🎓 IMT Atlantique alumni
 - 👔 Work at Devoteam as DevOps Engineer
 
-I'm passionnate about:
+### I'm passionnate about
 - 🌱 Green IT & IT for green
 - 🛰 Sciences & New technologies
 
@@ -14,8 +13,8 @@ I'm passionnate about:
 
 🧠 I’m currently learning Golang
 
-## Technologies that I've worked with
 
+### Technologies that I've worked with
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 ![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible)
