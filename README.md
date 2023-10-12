@@ -3,15 +3,11 @@
 ## About me
 - 🇫🇷 French since 1998 🥖
 - 🎓 IMT Atlantique alumni
-- 👔 Work at Devoteam as DevOps Engineer
+- 👔 Work at Metron as DevOps & Cloud Engineer
 
 ### I'm passionnate about
 - 🌱 Green IT & IT for green
 - 🛰 Sciences & New technologies
-
-🔭 I’m currently working on a manga scan web scraper
-
-🧠 I’m currently learning Golang
 
 
 ### Technologies that I've worked with
